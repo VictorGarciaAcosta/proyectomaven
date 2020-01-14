@@ -1,6 +1,6 @@
 package proyecto_geometrico;
 
-public class PruebaGeométrica {
+public class PruebaGeometrica {
 
 	public static void main(String[] args) {
 		Punto p= new Punto(2, 3);
